@@ -21,12 +21,12 @@ Programa simples em Java para converter temperaturas entre Fahrenheit e Celsius.
 
 ## Exemplo
 
-1- Fahrenheit -> Celsius 
-2- Celsius -> Fahrenheit
-1
-Digite a temperatura: 
-100
-Temperatura: 37.78°C
+1- Fahrenheit -> Celsius <br>
+2- Celsius -> Fahrenheit <br>
+1 <br>
+Digite a temperatura:  <br>
+100 <br>
+Temperatura: 37.78°C <br>
 
 
 ## Tecnologias
