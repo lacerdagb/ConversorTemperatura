@@ -1,6 +1,8 @@
 ## Conversor de temperatura 🌡️ (Fahrenheit e Celsius) 
 ![image](https://github.com/user-attachments/assets/59503bca-839f-44a1-9c15-14365100af43)
 
+# Conversor de Temperaturas 🌡️
+
 Programa simples em Java para converter temperaturas entre Fahrenheit e Celsius.
 
 ## Como usar
@@ -26,11 +28,13 @@ Digite a temperatura:
 100
 Temperatura: 37.78°C
 
+
 ## Tecnologias
 
 - Java
 - Scanner
 - Locale
+
 
 
 
